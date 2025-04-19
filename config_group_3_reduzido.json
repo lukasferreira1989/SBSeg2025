@@ -1,0 +1,699 @@
+{
+    "13": {
+        "input_dataset": [
+            "datasets/androcrawl_reduzido.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "1024"
+        ],
+        "dense_layer_sizes_d": [
+            "1024"
+        ],
+        "number_epochs": [
+            "32"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.05"
+        ],
+        "dropout_decay_rate_g": [
+            "0.05"
+        ],
+        "batch_size": [
+            "256"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "31": {
+        "input_dataset": [
+            "datasets/androcrawl_reduzido.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "1024"
+        ],
+        "dense_layer_sizes_d": [
+            "1024"
+        ],
+        "number_epochs": [
+            "32"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.05"
+        ],
+        "dropout_decay_rate_g": [
+            "0.3"
+        ],
+        "batch_size": [
+            "256"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "49": {
+        "input_dataset": [
+            "datasets/androcrawl_reduzido.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "1024"
+        ],
+        "dense_layer_sizes_d": [
+            "1024"
+        ],
+        "number_epochs": [
+            "32"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.05"
+        ],
+        "dropout_decay_rate_g": [
+            "0.6"
+        ],
+        "batch_size": [
+            "256"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "67": {
+        "input_dataset": [
+            "datasets/androcrawl_reduzido.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "1024"
+        ],
+        "dense_layer_sizes_d": [
+            "1024"
+        ],
+        "number_epochs": [
+            "32"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.3"
+        ],
+        "dropout_decay_rate_g": [
+            "0.05"
+        ],
+        "batch_size": [
+            "256"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "85": {
+        "input_dataset": [
+            "datasets/androcrawl_reduzido.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "1024"
+        ],
+        "dense_layer_sizes_d": [
+            "1024"
+        ],
+        "number_epochs": [
+            "32"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.3"
+        ],
+        "dropout_decay_rate_g": [
+            "0.3"
+        ],
+        "batch_size": [
+            "256"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "103": {
+        "input_dataset": [
+            "datasets/androcrawl_reduzido.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "1024"
+        ],
+        "dense_layer_sizes_d": [
+            "1024"
+        ],
+        "number_epochs": [
+            "32"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.3"
+        ],
+        "dropout_decay_rate_g": [
+            "0.6"
+        ],
+        "batch_size": [
+            "256"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "121": {
+        "input_dataset": [
+            "datasets/androcrawl_reduzido.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "1024"
+        ],
+        "dense_layer_sizes_d": [
+            "1024"
+        ],
+        "number_epochs": [
+            "32"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.6"
+        ],
+        "dropout_decay_rate_g": [
+            "0.05"
+        ],
+        "batch_size": [
+            "256"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "139": {
+        "input_dataset": [
+            "datasets/androcrawl_reduzido.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "1024"
+        ],
+        "dense_layer_sizes_d": [
+            "1024"
+        ],
+        "number_epochs": [
+            "32"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.6"
+        ],
+        "dropout_decay_rate_g": [
+            "0.3"
+        ],
+        "batch_size": [
+            "256"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "157": {
+        "input_dataset": [
+            "datasets/androcrawl_reduzido.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "1024"
+        ],
+        "dense_layer_sizes_d": [
+            "1024"
+        ],
+        "number_epochs": [
+            "32"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.6"
+        ],
+        "dropout_decay_rate_g": [
+            "0.6"
+        ],
+        "batch_size": [
+            "256"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "184": {
+        "input_dataset": [
+            "datasets/defensedroid_apicalls_closeness_reduzido.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "1024"
+        ],
+        "dense_layer_sizes_d": [
+            "1024"
+        ],
+        "number_epochs": [
+            "32"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.05"
+        ],
+        "dropout_decay_rate_g": [
+            "0.3"
+        ],
+        "batch_size": [
+            "32"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "202": {
+        "input_dataset": [
+            "datasets/defensedroid_apicalls_closeness_reduzido.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "1024"
+        ],
+        "dense_layer_sizes_d": [
+            "1024"
+        ],
+        "number_epochs": [
+            "32"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.05"
+        ],
+        "dropout_decay_rate_g": [
+            "0.6"
+        ],
+        "batch_size": [
+            "32"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "220": {
+        "input_dataset": [
+            "datasets/defensedroid_apicalls_closeness_reduzido.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "1024"
+        ],
+        "dense_layer_sizes_d": [
+            "1024"
+        ],
+        "number_epochs": [
+            "32"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.3"
+        ],
+        "dropout_decay_rate_g": [
+            "0.05"
+        ],
+        "batch_size": [
+            "32"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "238": {
+        "input_dataset": [
+            "datasets/defensedroid_apicalls_closeness_reduzido.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "1024"
+        ],
+        "dense_layer_sizes_d": [
+            "1024"
+        ],
+        "number_epochs": [
+            "32"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.3"
+        ],
+        "dropout_decay_rate_g": [
+            "0.3"
+        ],
+        "batch_size": [
+            "32"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "256": {
+        "input_dataset": [
+            "datasets/defensedroid_apicalls_closeness_reduzido.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "1024"
+        ],
+        "dense_layer_sizes_d": [
+            "1024"
+        ],
+        "number_epochs": [
+            "32"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.3"
+        ],
+        "dropout_decay_rate_g": [
+            "0.6"
+        ],
+        "batch_size": [
+            "32"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "274": {
+        "input_dataset": [
+            "datasets/defensedroid_apicalls_closeness_reduzido.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "1024"
+        ],
+        "dense_layer_sizes_d": [
+            "1024"
+        ],
+        "number_epochs": [
+            "32"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.6"
+        ],
+        "dropout_decay_rate_g": [
+            "0.05"
+        ],
+        "batch_size": [
+            "32"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "292": {
+        "input_dataset": [
+            "datasets/defensedroid_apicalls_closeness_reduzido.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "1024"
+        ],
+        "dense_layer_sizes_d": [
+            "1024"
+        ],
+        "number_epochs": [
+            "32"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.6"
+        ],
+        "dropout_decay_rate_g": [
+            "0.3"
+        ],
+        "batch_size": [
+            "32"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "310": {
+        "input_dataset": [
+            "datasets/defensedroid_apicalls_closeness_reduzido.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "1024"
+        ],
+        "dense_layer_sizes_d": [
+            "1024"
+        ],
+        "number_epochs": [
+            "32"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.6"
+        ],
+        "dropout_decay_rate_g": [
+            "0.6"
+        ],
+        "batch_size": [
+            "32"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    }
+}
