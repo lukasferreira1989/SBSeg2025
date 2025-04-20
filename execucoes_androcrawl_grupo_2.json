@@ -1,0 +1,371 @@
+{
+    "29": {
+        "input_dataset": [
+            "datasets/androcrawl.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "32"
+        ],
+        "dense_layer_sizes_d": [
+            "32"
+        ],
+        "number_epochs": [
+            "1024"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.05"
+        ],
+        "dropout_decay_rate_g": [
+            "0.3"
+        ],
+        "batch_size": [
+            "256"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "31": {
+        "input_dataset": [
+            "datasets/androcrawl.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "1024"
+        ],
+        "dense_layer_sizes_d": [
+            "1024"
+        ],
+        "number_epochs": [
+            "32"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.05"
+        ],
+        "dropout_decay_rate_g": [
+            "0.3"
+        ],
+        "batch_size": [
+            "256"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "32": {
+        "input_dataset": [
+            "datasets/androcrawl.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "1024"
+        ],
+        "dense_layer_sizes_d": [
+            "1024"
+        ],
+        "number_epochs": [
+            "1024"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.05"
+        ],
+        "dropout_decay_rate_g": [
+            "0.3"
+        ],
+        "batch_size": [
+            "256"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "37": {
+        "input_dataset": [
+            "datasets/androcrawl.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "32"
+        ],
+        "dense_layer_sizes_d": [
+            "32"
+        ],
+        "number_epochs": [
+            "32"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.05"
+        ],
+        "dropout_decay_rate_g": [
+            "0.6"
+        ],
+        "batch_size": [
+            "32"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "38": {
+        "input_dataset": [
+            "datasets/androcrawl.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "32"
+        ],
+        "dense_layer_sizes_d": [
+            "32"
+        ],
+        "number_epochs": [
+            "1024"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.05"
+        ],
+        "dropout_decay_rate_g": [
+            "0.6"
+        ],
+        "batch_size": [
+            "32"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "40": {
+        "input_dataset": [
+            "datasets/androcrawl.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "1024"
+        ],
+        "dense_layer_sizes_d": [
+            "1024"
+        ],
+        "number_epochs": [
+            "32"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.05"
+        ],
+        "dropout_decay_rate_g": [
+            "0.6"
+        ],
+        "batch_size": [
+            "32"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "41": {
+        "input_dataset": [
+            "datasets/androcrawl.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "1024"
+        ],
+        "dense_layer_sizes_d": [
+            "1024"
+        ],
+        "number_epochs": [
+            "1024"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.05"
+        ],
+        "dropout_decay_rate_g": [
+            "0.6"
+        ],
+        "batch_size": [
+            "32"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "46": {
+        "input_dataset": [
+            "datasets/androcrawl.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "32"
+        ],
+        "dense_layer_sizes_d": [
+            "32"
+        ],
+        "number_epochs": [
+            "32"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.05"
+        ],
+        "dropout_decay_rate_g": [
+            "0.6"
+        ],
+        "batch_size": [
+            "256"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "47": {
+        "input_dataset": [
+            "datasets/androcrawl.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "32"
+        ],
+        "dense_layer_sizes_d": [
+            "32"
+        ],
+        "number_epochs": [
+            "1024"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.05"
+        ],
+        "dropout_decay_rate_g": [
+            "0.6"
+        ],
+        "batch_size": [
+            "256"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    }
+}
