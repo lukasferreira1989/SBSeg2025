@@ -1,0 +1,371 @@
+{
+    "172": {
+        "input_dataset": [
+            "datasets/defensedroid_chi2_reduzido.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "32"
+        ],
+        "dense_layer_sizes_d": [
+            "32"
+        ],
+        "number_epochs": [
+            "32"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.05"
+        ],
+        "dropout_decay_rate_g": [
+            "0.05"
+        ],
+        "batch_size": [
+            "256"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "173": {
+        "input_dataset": [
+            "datasets/defensedroid_chi2_reduzido.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "32"
+        ],
+        "dense_layer_sizes_d": [
+            "32"
+        ],
+        "number_epochs": [
+            "1024"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.05"
+        ],
+        "dropout_decay_rate_g": [
+            "0.05"
+        ],
+        "batch_size": [
+            "256"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "175": {
+        "input_dataset": [
+            "datasets/defensedroid_chi2_reduzido.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "1024"
+        ],
+        "dense_layer_sizes_d": [
+            "1024"
+        ],
+        "number_epochs": [
+            "32"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.05"
+        ],
+        "dropout_decay_rate_g": [
+            "0.05"
+        ],
+        "batch_size": [
+            "256"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "176": {
+        "input_dataset": [
+            "datasets/defensedroid_chi2_reduzido.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "1024"
+        ],
+        "dense_layer_sizes_d": [
+            "1024"
+        ],
+        "number_epochs": [
+            "1024"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.05"
+        ],
+        "dropout_decay_rate_g": [
+            "0.05"
+        ],
+        "batch_size": [
+            "256"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "181": {
+        "input_dataset": [
+            "datasets/defensedroid_chi2_reduzido.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "32"
+        ],
+        "dense_layer_sizes_d": [
+            "32"
+        ],
+        "number_epochs": [
+            "32"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.05"
+        ],
+        "dropout_decay_rate_g": [
+            "0.3"
+        ],
+        "batch_size": [
+            "32"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "182": {
+        "input_dataset": [
+            "datasets/defensedroid_chi2_reduzido.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "32"
+        ],
+        "dense_layer_sizes_d": [
+            "32"
+        ],
+        "number_epochs": [
+            "1024"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.05"
+        ],
+        "dropout_decay_rate_g": [
+            "0.3"
+        ],
+        "batch_size": [
+            "32"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "184": {
+        "input_dataset": [
+            "datasets/defensedroid_chi2_reduzido.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "1024"
+        ],
+        "dense_layer_sizes_d": [
+            "1024"
+        ],
+        "number_epochs": [
+            "32"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.05"
+        ],
+        "dropout_decay_rate_g": [
+            "0.3"
+        ],
+        "batch_size": [
+            "32"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "185": {
+        "input_dataset": [
+            "datasets/defensedroid_chi2_reduzido.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "1024"
+        ],
+        "dense_layer_sizes_d": [
+            "1024"
+        ],
+        "number_epochs": [
+            "1024"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.05"
+        ],
+        "dropout_decay_rate_g": [
+            "0.3"
+        ],
+        "batch_size": [
+            "32"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    },
+    "190": {
+        "input_dataset": [
+            "datasets/defensedroid_chi2_reduzido.csv"
+        ],
+        "dense_layer_sizes_g": [
+            "32"
+        ],
+        "dense_layer_sizes_d": [
+            "32"
+        ],
+        "number_epochs": [
+            "32"
+        ],
+        "k_fold": [
+            "5"
+        ],
+        "training_algorithm": [
+            "Adam"
+        ],
+        "activation_function": [
+            "LeakyReLU"
+        ],
+        "dropout_decay_rate_d": [
+            "0.05"
+        ],
+        "dropout_decay_rate_g": [
+            "0.3"
+        ],
+        "batch_size": [
+            "256"
+        ],
+        "latent_dimension": [
+            "32"
+        ],
+        "initializer_mean": [
+            "0"
+        ],
+        "initializer_deviation": [
+            "0.125"
+        ]
+    }
+}
